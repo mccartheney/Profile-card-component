@@ -18,13 +18,13 @@
 ### Screenshot
 
 ![](./screenShots/Desktop.png)
-![](./screenShots/mobile.png.png)
+![](./screenShots/mobile.png)
 
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Solution URL](https://github.com/mccartheney/Profile-card-component)
+- Live Site URL: [Site URL](https://vocal-boba-1a3575.netlify.app/)
 
 ## My process
 
